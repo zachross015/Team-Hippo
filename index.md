@@ -1,4 +1,4 @@
-# Addressing Attention in Hybrid Learning
+# Addressing Attention Issues in Hybrid Learning
 
 ## Introduction
 
