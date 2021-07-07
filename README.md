@@ -1,1 +1,1 @@
-# synchoronous-attention
+# Team Hippo
