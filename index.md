@@ -101,4 +101,6 @@ teachers are able to monitor students’ engagement in real-time and make necess
 adjustments if need be.
 
 ## Summary Video
-<iframe id="video" width="560" height="315" src="src="https://youtu.be/FYmL_6zX5Us"" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+<iframe id="video" width="560" height="315" src="https://youtu.be/FYmL_6zX5Us" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
