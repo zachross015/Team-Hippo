@@ -1,5 +1,6 @@
-[Milestone 2 Problem Definition](https://michaelcotterell.com/hci/2021su/html/project/milestone2.html)
+# Addressing Attention Issues in Hybrid Learning
 
+[Milestone 2 Problem Definition](https://michaelcotterell.com/hci/2021su/html/project/milestone2.html)
 
 ## TOC
 
