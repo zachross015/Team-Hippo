@@ -1,4 +1,12 @@
-[Milestone 2](https://michaelcotterell.com/hci/2021su/html/project/milestone2.html)
+[Milestone 2 Problem Definition](https://michaelcotterell.com/hci/2021su/html/project/milestone2.html)
+
+
+## TOC
+
+<a href="milestone2">Milestone 2</a>
+
+<a href="milestone3">Milestone 3</a>
+
 
 ## Introduction
 
