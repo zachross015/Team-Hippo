@@ -34,3 +34,7 @@ This narrowed down the stories to:
 1. As a teacher, I would like to have a tool which maintains the attentions of all my students.
 2. As a student with ADHD, I would like to learn a concept in a distraction-free setting 
 3. As a student with a visual impairment, I would like to have accessible methods for interacting with my classwork.
+
+## Ideation and Preliminary Design
+
+
