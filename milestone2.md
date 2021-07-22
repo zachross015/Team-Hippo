@@ -2,7 +2,7 @@
 
 [Milestone 2 Problem Definition](https://michaelcotterell.com/hci/2021su/html/project/milestone2.html)
 
-## TOC
+## Table of Contents
 
 <a href="milestone2">Milestone 2</a>
 
