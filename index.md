@@ -1,6 +1,6 @@
 # Addressing Attention Issues in Hybrid Learning
 
-## TOC
+## Table of Contents
 
 <a href="milestone2">Milestone 2</a>
 
