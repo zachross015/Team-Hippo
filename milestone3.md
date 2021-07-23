@@ -37,4 +37,37 @@ This narrowed down the stories to:
 
 ## Ideation and Preliminary Design
 
+For our user stories, we used Mural to come up with a set of ideas as a group. This mural is shown below. On the left, the yellow stickies denote our user stories. Each green/blue sticky is used to denote a solution to the user story on that row, with the solutions we agreed to be the best colored blue.
 
+<iframe src='https://app.mural.co/embed/a4b28fe5-1712-4410-80b7-cd505063f46f'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
+
+We decided these solutions as they all are components of a cohesive, hybrid-synchronous, classroom experience, and we felt that these solutions/features would provide the best experience for users of our proposed solution from Milestone 2: Classroom Gamification.
+
+Using these solutions, we made our low-fidelity wireframes.
+
+### Wireframe for "Provide Team Quiz or Team Trivia opportunities (Online Learning)"
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhosdtXiHXvqjt035FV7KuE%2FLow-Fidelity%3Fnode-id%3D43%253A186" allowfullscreen></iframe>
+
+### Wireframes for "Gamification of classwork would allow active involvement and increase overall attention" and "Implement badge reward based on student's favorite animal, game etc"
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhosdtXiHXvqjt035FV7KuE%2FLow-Fidelity%3Fnode-id%3D56%253A743" allowfullscreen></iframe>
+
+### Wireframe for "Speech-to-text and text-to-speech options for learning and completing my assignments"
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhosdtXiHXvqjt035FV7KuE%2FLow-Fidelity%3Fnode-id%3D56%253A927" allowfullscreen></iframe>
+
+### Wireframe for "Provide accessibility features such as increase in font size, customized color contrast, large print captions, and magnification"
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhosdtXiHXvqjt035FV7KuE%2FLow-Fidelity%3Fnode-id%3D56%253A977" allowfullscreen></iframe>
+
+### High Fidelity Mockup
+
+After creating all of the low-fidelity wireframes, we decided that Jane's design for the Gamification platform would suit us the best. So our high-fidelity mockup takes inspiration from her design and creates a flow between the different user stories which encapsulates all the solutions we had discussed as a group. 
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhosdtXiHXvqjt035FV7KuE%2FLow-Fidelity%3Fnode-id%3D37%253A11" allowfullscreen></iframe>
