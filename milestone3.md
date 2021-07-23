@@ -70,4 +70,10 @@ Using these solutions, we made our low-fidelity wireframes.
 
 After creating all of the low-fidelity wireframes, we decided that Jane's design for the Gamification platform would suit us the best since it provides a more light-hearted and distraction-free approach to an online classroom. So our high-fidelity mockup takes inspiration from her design and creates a flow between the different user stories which encapsulates all the solutions we had discussed as a group. 
 
+Of the solutions we chose for the user stories, the best solutions were decided to be the following for the respective user stories (as defined above):
+
+1. Provide Team Quiz or Team Trivia opportunities (Online Learning). This was decided as it provides the best tool for the teacher with regards to active attention. This kind of platform, with the way we designed it, fosters both a cooperative and competitive atmosphere, allowing students to communicate with each other and debate solutions based on what they believe to be right.
+2. Gamification of classwork would allow active involvement and increase overall attention. This one most aligns with our original proposed solution and helps ADHD students by providing a dynamic learning environment where they feel a sense of pride and accomplishment for completing their activities.
+3. Speech-to-text and text-to-speech options for learning and completing my assignments. We chose this solution to be the best due to it being a status-quo for accessibility solutions in visually impaired students. Although this one was harder to show in a wireframe, so throughout the high-fidelity mockup, we included a button in almost every menu which indicates a text to speech option.
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhosdtXiHXvqjt035FV7KuE%2FLow-Fidelity%3Fnode-id%3D37%253A11" allowfullscreen></iframe>
