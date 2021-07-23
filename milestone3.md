@@ -68,6 +68,6 @@ Using these solutions, we made our low-fidelity wireframes.
 
 ### High Fidelity Mockup
 
-After creating all of the low-fidelity wireframes, we decided that Jane's design for the Gamification platform would suit us the best. So our high-fidelity mockup takes inspiration from her design and creates a flow between the different user stories which encapsulates all the solutions we had discussed as a group. 
+After creating all of the low-fidelity wireframes, we decided that Jane's design for the Gamification platform would suit us the best since it provides a more light-hearted and distraction-free approach to an online classroom. So our high-fidelity mockup takes inspiration from her design and creates a flow between the different user stories which encapsulates all the solutions we had discussed as a group. 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhosdtXiHXvqjt035FV7KuE%2FLow-Fidelity%3Fnode-id%3D37%253A11" allowfullscreen></iframe>
