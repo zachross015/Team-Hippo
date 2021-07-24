@@ -77,3 +77,7 @@ Of the solutions we chose for the user stories, the best solutions were decided 
 3. Speech-to-text and text-to-speech options for learning and completing my assignments. We chose this solution to be the best due to it being a status-quo for accessibility solutions in visually impaired students. Although this one was harder to show in a wireframe, so throughout the high-fidelity mockup, we included a button in almost every menu which indicates a text to speech option.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhosdtXiHXvqjt035FV7KuE%2FLow-Fidelity%3Fnode-id%3D37%253A11" allowfullscreen></iframe>
+
+## Milestone Summary 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DUWLb-rrQno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
