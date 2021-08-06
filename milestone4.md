@@ -49,3 +49,82 @@ Answer: Testing Protocols
 	- Interviews: By interviewing people who have used the functionality will give a good look into how effective our speech-to-text and text-to-speech is. Interviewing individuals with visual disabilities will give an insight into how easy it is to access the text-to-speech feature and how effective it is in navigating the website and how effective our feature is in submitting assignments. One of the important things we wanted to observe is how accent of the participants is interpreted by our system. This is particularly important because we want to help students from various backgrounds. 
 	- Surveys: Surveying people depending on their user interaction with the feature is a good way to estimate the effectiveness fo our feature.
 	- Focus groups: Forming focus groups of students with Visual/Audio disabilities in testing the prototype of the feature gives an in depth knowledge of potential changes that can be made or identify faults with the existing feature. Working closely with a focus group will also provide a look at ease of access with our feature.
+
+> Based on the methodology you chose in (B.1), describe your **testing procedure**. Regardless of methodology, your testing procedure needs to involve your design prototype from (A). Also, be sure to incorporate answers to the following questions in your description.
+
+### Testing Procedure
+
+1. Analyze the Product
+	a. Research the audience
+	b. Interview the study lead
+	c. Review product and project documentation (create some if none)
+	d. Perform product/project walkthrough
+2. Develop Test Strategy
+	a. Clearly define the scope of testing
+		i. Components to be tested (software, hardware, middleware, etc.)
+		ii. Components that will not be tested
+		iii. Provide team members with confident and accurate information
+		iv. Consider both functional and nonfunctional operations
+		v. Other factors to take into account
+			1. Precise audience requirements
+			2. Project budget
+			3. Product Specification
+			4. Skills & talents of the test team
+	b. Identify Testing Type
+		i. Unit Test
+		ii. API Testing
+		iii. Integration Test (Horizontal or Vertical)
+		iv. System Test
+		v. Install/Uninstall Testing
+		vi. Agile Testing
+		vii. Waterfall Testing
+	c. Document Risk and Issues (Testing Efforts and Costs)
+	d. Create Test Logistics
+		i. Ability to understand customers point of view
+		ii. Strong desire for quality
+		iii. Attention to detail
+		iv. Good cooperation
+		v. Determine all required items to be fully ready for testing
+3. Define Test Objective
+	a. List all features of the product
+	b. Determine the goal of the test based on the features
+	c. Organize the testing process (Mind-Maps)
+4. Define Test Criteria
+	a. Use Suspension Criteria
+	b. Use Exit Criteria
+5. Resource Planning
+	a. Human Resources
+	b. System Resources
+6. Plan Test Environment
+	a. Find an environment where a real business and user group can interact
+	b. Strong communication between Test Team and Development Team
+7. Schedule and Estimation
+	a. Manage the test
+		i. Create the test specification
+		ii. Perform test execution
+		iii. Test report
+		iv. Test delivery
+	b. Consider employee and project deadlines
+	c. Estimate the project execution time
+	d. Be mindful of any project risks being taken
+8. Test Deliverables
+	a. Before Testing
+		i. Test plans document
+		ii. Test cases documents
+		iii. Test design specifications
+	b. During Testing
+		i. Test scripts
+		ii. Simulatorsiii. Test data
+		iv. Test traceability matrix
+		v. Error logs
+		vi. Execution logs
+	c. After Testing
+		i. Test results
+		ii. Defect reports
+		iii. Test procedures guidelines
+		iv. Release notes
+9. Refine, Repeat, and Release Product
+	a. Work out any bugs in the testing procedure and product
+	b. Loop through the modified testing procedure
+	c. Go public with the product and turn the project into a success
+		i. If failure, reflect on the test and project, then go back to the drawing board and brainstorm solutions to the major problem(s).
