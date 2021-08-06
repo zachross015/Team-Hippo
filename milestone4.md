@@ -19,13 +19,13 @@
 >	-	What is your research question? It should be simple, falsifiable, and related to the effectiveness of your design in solving your problem of study.
 >
 >	-	Based on your research question, what methodology will you use for testing and why? Some examples include:
->	  -	Observation / Participant Observation.
->	  -	Surveys.
->	  -	Interviews.
->	  -	Focus Groups.
->	  -	Experiments.
->	  -	Secondary Data Analysis / Archival Study.
->	  -	Mixed Methods (combination of some of the above)
+>	    -	Observation / Participant Observation.
+>	    -	Surveys.
+>	    -	Interviews.
+>	    -	Focus Groups.
+>	    -	Experiments.
+>	    -	Secondary Data Analysis / Archival Study.
+>	    -	Mixed Methods (combination of some of the above)
 
 Answer: Testing Protocols 
 
@@ -35,7 +35,7 @@ Answer: Testing Protocols
   - Surveys: I believe teacher satisfaction survey regarding the effectiveness of real time quizzes will give insights into wether it is a useful task and what additional changes we can make to address the issue or identify instructors expectations.
 	- Interviews: Interviewing instructors from various courses can help custom real time quiz functionality. For example, instructors from statistics class might need more data related quizzes, instructors from more theory oriented classes might prefer small answer questions etc.,
 
-**Research question 2.** As a student, how can I use gamification to better understand a concept.
+**Research question 2.** As a student, how can I use gamification to better understand a concept?
 
 - Methodology
 	- Participant Observation: Students interaction with gamification facility can be evaluated by seeing usage of the gamification and by conducting knowledge evaluation metric either by a quiz, or test of some sort. We can also provide restricted access to gamification facility to observe how students understanding of a certain topic is dependent on gamification.
