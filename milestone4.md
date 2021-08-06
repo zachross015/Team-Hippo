@@ -55,10 +55,10 @@ Answer: Testing Protocols
 ### Testing Procedure
 
 1. Analyze the Product
-	a. Research the audience
-	b. Interview the study lead
-	c. Review product and project documentation (create some if none)
-	d. Perform product/project walkthrough
+  a. Research the audience
+  b. Interview the study lead
+  c. Review product and project documentation (create some if none)
+  d. Perform product/project walkthrough
 2. Develop Test Strategy
 	a. Clearly define the scope of testing
 		i. Components to be tested (software, hardware, middleware, etc.)
