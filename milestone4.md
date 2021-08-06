@@ -50,7 +50,7 @@ Answer: Testing Protocols
 	- Surveys: Surveying people depending on their user interaction with the feature is a good way to estimate the effectiveness fo our feature.
 	- Focus groups: Forming focus groups of students with Visual/Audio disabilities in testing the prototype of the feature gives an in depth knowledge of potential changes that can be made or identify faults with the existing feature. Working closely with a focus group will also provide a look at ease of access with our feature.
 
-> Based on the methodology you chose in (B.1), describe your **testing procedure**. Regardless of methodology, your testing procedure needs to involve your design prototype from (A). Also, be sure to incorporate answers to the following questions in your description.
+> Based on the methodology you chose in (B.1), describe your **testing procedure**. 
 
 ### Testing Procedure
 
@@ -129,3 +129,20 @@ Answer: Testing Protocols
 	1. Loop through the modified testing procedure
 	1. Go public with the product and turn the project into a success
 		1. If failure, reflect on the test and project, then go back to the drawing board and brainstorm solutions to the major problem(s).
+
+> Regardless of methodology, your testing procedure needs to involve your design prototype from (A). Also, be sure to incorporate answers to the following questions in your description.
+> - What is your specific plan to deal with informed consent?
+
+Verbally summarize all the crucial parts of the testandprovide a more detailed form for testers to sign.
+
+> - What specific data will you collect and how will it be organized?
+
+Audience reactions, website interactions, and thoughts on our ideas via a feedback tool to help facilitate hybrid learning into a more effective and equal opportunity environment.
+
+> - What type of analysis do you intend to perform withthe studydata, and how will that analysis help answer yourresearchquestion from (B.1)?
+
+Use either the Agile or Waterfall Methodology (Lean Six Sigma?)
+
+> - How might you conduct your testing procedure safely during apandemic?
+
+Our methodology uses hybrid protocols to begin with, meaning most of the study can be performed from monitoring user interactions with the platform. That being said, any in person study would have dedicated space fitted out with safety measures for prevention of disease spreading.
