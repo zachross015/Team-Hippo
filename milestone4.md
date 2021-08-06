@@ -33,7 +33,7 @@ Answer: Testing Protocols
 
 - Methodology
   - Surveys: I believe teacher satisfaction survey regarding the effectiveness of real time quizzes will give insights into wether it is a useful task and what additional changes we can make to address the issue or identify instructors expectations.
-	- Interviews: Interviewing instructors from various courses can help custom real time quiz functionality. For example, instructors from statistics class might need more data related quizzes, instructors from more theory oriented classes might prefer small answer questions etc.,
+  - Interviews: Interviewing instructors from various courses can help custom real time quiz functionality. For example, instructors from statistics class might need more data related quizzes, instructors from more theory oriented classes might prefer small answer questions etc.,
 
 **Research question 2.** As a student, how can I use gamification to better understand a concept?
 
