@@ -9,6 +9,8 @@
 
 <a href="milestone3">Milestone 3</a>
 
+<a href="milestone4">Milestone 4</a>
+
 ## User Experience Requirements
 
 Our original user stories encompassed a variety of accessibility issues. Although this is an ongoing development in its own right, we needed to come up with user stories that were more general and stayed true to our original goal of finding ways to maintain attention in hybrid synchronous settings. Our original decisions for user stories were the following:
