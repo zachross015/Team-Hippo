@@ -60,71 +60,72 @@ Answer: Testing Protocols
 	3. Review product and project documentation (create some if none)
 	4. Perform product/project walkthrough
 2. Develop Test Strategy
-	a. Clearly define the scope of testing
-		i. Components to be tested (software, hardware, middleware, etc.)
-		ii. Components that will not be tested
-		iii. Provide team members with confident and accurate information
-		iv. Consider both functional and nonfunctional operations
-		v. Other factors to take into account
+	1. Clearly define the scope of testing
+		1. Components to be tested (software, hardware, middleware, etc.)
+		1. Components that will not be tested
+		1. Provide team members with confident and accurate information
+		1. Consider both functional and nonfunctional operations
+		1. Other factors to take into account
 			1. Precise audience requirements
 			2. Project budget
 			3. Product Specification
 			4. Skills & talents of the test team
-	b. Identify Testing Type
-		i. Unit Test
-		ii. API Testing
-		iii. Integration Test (Horizontal or Vertical)
-		iv. System Test
-		v. Install/Uninstall Testing
-		vi. Agile Testing
-		vii. Waterfall Testing
-	c. Document Risk and Issues (Testing Efforts and Costs)
-	d. Create Test Logistics
-		i. Ability to understand customers point of view
-		ii. Strong desire for quality
-		iii. Attention to detail
-		iv. Good cooperation
-		v. Determine all required items to be fully ready for testing
+	1. Identify Testing Type
+		1. Unit Test
+		1. API Testing
+		1. Integration Test (Horizontal or Vertical)
+		1. System Test
+		1. Install/Uninstall Testing
+		1. Agile Testing
+		1. Waterfall Testing
+	1. Document Risk and Issues (Testing Efforts and Costs)
+	1. Create Test Logistics
+		1. Ability to understand customers point of view
+		1. Strong desire for quality
+		1. Attention to detail
+		1. Good cooperation
+		1. Determine all required items to be fully ready for testing
 3. Define Test Objective
-	a. List all features of the product
-	b. Determine the goal of the test based on the features
-	c. Organize the testing process (Mind-Maps)
+	1. List all features of the product
+	1. Determine the goal of the test based on the features
+	1. Organize the testing process (Mind-Maps)
 4. Define Test Criteria
-	a. Use Suspension Criteria
-	b. Use Exit Criteria
+	1. Use Suspension Criteria
+	1. Use Exit Criteria
 5. Resource Planning
-	a. Human Resources
-	b. System Resources
+	1. Human Resources
+	1. System Resources
 6. Plan Test Environment
-	a. Find an environment where a real business and user group can interact
-	b. Strong communication between Test Team and Development Team
+	1. Find an environment where a real business and user group can interact
+	1. Strong communication between Test Team and Development Team
 7. Schedule and Estimation
-	a. Manage the test
-		i. Create the test specification
-		ii. Perform test execution
-		iii. Test report
-		iv. Test delivery
-	b. Consider employee and project deadlines
-	c. Estimate the project execution time
-	d. Be mindful of any project risks being taken
+	1. Manage the test
+		1. Create the test specification
+		1. Perform test execution
+		1. Test report
+		1. Test delivery
+	1. Consider employee and project deadlines
+	1. Estimate the project execution time
+	1. Be mindful of any project risks being taken
 8. Test Deliverables
-	a. Before Testing
-		i. Test plans document
-		ii. Test cases documents
-		iii. Test design specifications
-	b. During Testing
-		i. Test scripts
-		ii. Simulatorsiii. Test data
-		iv. Test traceability matrix
-		v. Error logs
-		vi. Execution logs
-	c. After Testing
-		i. Test results
-		ii. Defect reports
-		iii. Test procedures guidelines
-		iv. Release notes
+	1. Before Testing
+		1. Test plans document
+		1. Test cases documents
+		1. Test design specifications
+	1. During Testing
+		1. Test scripts
+		1. Simulators
+		1. Test data
+		1. Test traceability matrix
+		1. Error logs
+		1. Execution logs
+	1. After Testing
+		1. Test results
+		1. Defect reports
+		1. Test procedures guidelines
+		1. Release notes
 9. Refine, Repeat, and Release Product
-	a. Work out any bugs in the testing procedure and product
-	b. Loop through the modified testing procedure
-	c. Go public with the product and turn the project into a success
-		i. If failure, reflect on the test and project, then go back to the drawing board and brainstorm solutions to the major problem(s).
+	1. Work out any bugs in the testing procedure and product
+	1. Loop through the modified testing procedure
+	1. Go public with the product and turn the project into a success
+		1. If failure, reflect on the test and project, then go back to the drawing board and brainstorm solutions to the major problem(s).
