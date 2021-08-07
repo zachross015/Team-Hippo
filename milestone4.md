@@ -17,11 +17,23 @@
 
 ### Instructor Demo
 
+User Story: As a teacher, I would like to have a tool which maintains the attentions of all my students.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R2oji0E5deI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Student Demo
 
+User Story: As a student with ADHD, I would like to learn a concept in a distraction-free setting.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZk4EWufdVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Visual Impairment
+
+User Story: As a student with a visual impairment, I would like to have accessible methods for interacting with my classwork.
+
+Due to the audible nature of this user story, there wasn't much of a demonstration to be had. Instead, we included in every screen an signifier which affords text-to-speech and speech-to-text options in every screen of our prototype which has text. The signifier is given by the following image:
+
+
 
 ### Design Evolution
 
@@ -164,3 +176,6 @@ Use either the Agile or Waterfall Methodology (Lean Six Sigma?)
 > - How might you conduct your testing procedure safely during apandemic?
 
 Our methodology uses hybrid protocols to begin with, meaning most of the study can be performed from monitoring user interactions with the platform. That being said, any in person study would have dedicated space fitted out with safety measures for prevention of disease spreading.
+
+## Summary Video
+
