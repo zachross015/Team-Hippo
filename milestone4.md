@@ -13,6 +13,24 @@
 
 ## High-Fidelity Prototype
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F02gmeTrhuLjo5k4Rc3YLlw%2FPrototype%3Fnode-id%3D47%253A21%26scaling%3Dcontain%26page-id%3D37%253A11%26starting-point-node-id%3D47%253A21" allowfullscreen></iframe>
+
+### Instructor Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R2oji0E5deI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Student Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZk4EWufdVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Design Evolution
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QbTLpIojjmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### What We Learned
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VAW5nBAv3o8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Testing Protocol
 
 > A user testing protocol describes the objective(s), methodology, and organization of a user test; it essentially describes how to administer a user test and how the data can be used to answer your research question. For this part of the milestone, you should describe your protocol by answering the following questions:
