@@ -33,7 +33,7 @@ User Story: As a student with a visual impairment, I would like to have accessib
 
 Due to the audible nature of this user story, there wasn't much of a demonstration to be had. Instead, we included in every screen an signifier which affords text-to-speech and speech-to-text options in every screen of our prototype which has text. The signifier is given by the following image:
 
-
+![Text to speech image](img.png)
 
 ### Design Evolution
 
@@ -179,3 +179,4 @@ Our methodology uses hybrid protocols to begin with, meaning most of the study c
 
 ## Summary Video
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uhwLg-LXI5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
